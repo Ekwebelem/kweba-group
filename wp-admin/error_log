@@ -1,0 +1,20 @@
+[20-Oct-2020 16:46:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'QUADS_Ad_Setup' does not have a method 'quadsUpgradeToNewDesign' in /home/myfuycnk/kwebagroup.com/wp-includes/class-wp-hook.php on line 287
+[09-Sep-2021 22:04:13 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[09-Sep-2021 23:04:02 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 00:04:06 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 01:04:14 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 02:04:00 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 03:04:12 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 04:04:13 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 05:04:22 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 06:04:21 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 07:04:15 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 08:04:40 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 09:04:35 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 10:04:27 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 11:04:19 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 12:04:20 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 13:04:21 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 14:04:25 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 15:04:41 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 16:04:23 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
